@@ -18,7 +18,6 @@ public class CalcSomaMedia {
         media = soma / 3.0;
         System.out.println("Média = " + media);
         teclado.close();
-
     }
 }
 

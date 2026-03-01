@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class CalculaHipotenusa {
+public class C03ex00 {
    public static void main(String[] args) {
      double hipotenusa, cateto1, cateto2;
      Scanner teclado = new Scanner(System.in);
